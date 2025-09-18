@@ -16,7 +16,7 @@ opciones predeterminadas.
 3. **Configura tu identidad en Git:**  Es crucial que Git sepa quién eres cuando haces cambios. Abre tu **Terminal** y ejecuta los siguientes comandos, reemplazando con tu nombre y correo electrónico: 
 4. git config --global user.name"Ru Nombre Completo"
 5. git config --global user.email "tu.email@ejemplo.com" 
-    -El --global significa que esta configuracion se aplicara a todos tus proyectos en esta computadora Git almacenara esto en un archivo llamado .gitconfig.
+    - El --global significa que esta configuracion se aplicara a todos tus proyectos en esta computadora Git almacenara esto en un archivo llamado .gitconfig.
 6. **Verifica la configuracion:**
 7. git config --global --list
 
