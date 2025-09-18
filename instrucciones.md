@@ -34,7 +34,7 @@ Vamos a crear un espacio para tu proyecto en la nube de GitHub.
     - **Public/Private:** Selecciona **"Public"** (Público) para que otros puedan verlo y 
     potencialmente contribuir (¡excelente para tu portafolio!), o "Private" (Privado) si prefieres 
     mantenerlo solo para ti. 
-    - Initialize this repository with: Marca la casilla "Add a README file". El archivo 
+    - **Initialize this repository with:** Marca la casilla "Add a README file". El archivo 
     README.md es una descripción de tu proyecto y es una buena práctica incluirlo siempre.
 4. **Crea el repositorio:** Haz clic en el botón verde "Create repository". 
 5. **Modifica el archivo README.md:** Añade tus datos generales y una foto tuya, la información debe 
@@ -49,7 +49,7 @@ Ahora, necesitamos una copia de este repositoria en tu computadora para poder tr
 1. **En la página de tu repositorio en GitHub:** Busca un botón verde "Code" y haz clic en él.
 2. **Copia la URL HTTPS:** Verás una URL. Asegúrate de que diga "HTTPS" y cópiala (generalmente hay un icono para copiar)
 3. **Abre tu terminal:** En tu computadora, navega a la carpeta donde te gustaría guardar tus proyectos (ej. Documentos/Proyectos). Puedes usar el comando cd (change directory), por ejemplo: cd Documents/Proyects.
-4. **Clona el repositorio:** Una vez en ña carpeta deseada, ejecuta el siguiente comando, pegando la URL que copiaste:
+4. **Clona el repositorio:** Una vez en la carpeta deseada, ejecuta el siguiente comando, pegando la URL que copiaste:
 5. git clone  [PEGA_AQUÍ_LA_URL_HTTPS_DE_TU_REPOSITORIO]
 6. **Entra en la carpeta del proyecto:**
 7. cd mi-primer-proyecto-prepa
@@ -61,7 +61,7 @@ Ahora estás dentro de la carpeta local de tu repositorio.
 - **Commit:** Una "Fotografía" de tus cambios en un momento dado, con un mensaje descriptivo.
 - **Clonar (clone):** Descarga una copia de un repositorio remoto a tu computadora.
 - **Plush:** Envia tus cambios confirmados desde tu repositorio local a GitHub.
-- **Pull:** Recibir los cambios más recientes desde GitHub a tu repositorio local. (Lo usarás máscuando colabores.)
+- **Pull:** Recibir los cambios más recientes desde GitHub a tu repositorio local. (Lo usarás más cuando colabores.)
 - **README.md:** Un archivo que describe tu proyecto. qué hace y cómo usarlo. Se usa Markdown para darle formato.
 - **.gitignore:** Un archivo especial listas archivos o carpetas que Git debe ignorar y no rastrear (ej. archivos de configuración locales, archivos temporales). Esto ayuda a mantener tu repositorio limpio.
 
