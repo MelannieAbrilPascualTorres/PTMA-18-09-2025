@@ -23,10 +23,10 @@ opciones predeterminadas.
 Deberías ver tu nombre de usuario y correo electrónico en la lista.
 ## Paso 3: Crea tu primer repositorio en GitHub (¡usando la interfaz web!)
 Vamos a crear un espacio para tu proyecto en la nube de GitHub. 
-1. Inicia sesión en GitHub: Si no lo estás, entra a GitHub.com con tu nueva cuenta. 
-2. Crea un nuevo repositorio: En la esquina superior derecha, busca un signo de más (+) y haz clic en 
+1. **Inicia sesión en GitHub:** Si no lo estás, entra a GitHub.com con tu nueva cuenta. 
+2. **Crea un nuevo repositorio:** En la esquina superior derecha, busca un signo de más (+) y haz clic en 
 "New repository" (Nuevo repositorio). 
-3. Completa los detalles del repositorio:  
+3. **Completa los detalles del repositorio:**  
     - **Repository name:** Dale un nombre descriptivo a tu proyecto, por ejemplo: mi-primer
     proyecto-prepa. 
     - **Description (optional):** Escribe una breve descripción de tu proyecto (ej. "Un proyecto de 
