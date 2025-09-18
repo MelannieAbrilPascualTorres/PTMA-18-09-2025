@@ -51,9 +51,11 @@ Ahora, necesitamos una copia de este repositoria en tu computadora para poder tr
 3. **Abre tu terminal:** En tu computadora, navega a la carpeta donde te gustaría guardar tus proyectos (ej. Documentos/Proyectos). Puedes usar el comando cd (change directory), por ejemplo: cd Documents/Proyects.
 4. **Clona el repositorio:** Una vez en la carpeta deseada, ejecuta el siguiente comando, pegando la URL que copiaste:
 5. git clone  [PEGA_AQUÍ_LA_URL_HTTPS_DE_TU_REPOSITORIO]
+   
    (Ejemplo: git clone https://github.com/tu-usuario/mi-primer-proyecto-prepa.git).    Este comando 
    descargará una copia completa de tu repositorio (incluyendo el README.md) en una    nueva carpeta 
    con el nombre de tu repositorio.
+   
 6. **Entra en la carpeta del proyecto:**
 7. cd mi-primer-proyecto-prepa
 
