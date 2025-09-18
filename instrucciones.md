@@ -20,7 +20,7 @@ opciones predeterminadas.
 6. **Verifica la configuracion:**
 7. git config --global --list
 
-Deberas ver tu nombre de usuario y correo electronico
+Deberías ver tu nombre de usuario y correo electrónico en la lista.
 ## Paso 3: Crea tu primer repositorio en GitHub (¡usando la interfaz web!)
 Vamos a crear un espacio para tu proyecto en la nube de GitHub. 
 1. Inicia sesión en GitHub: Si no lo estás, entra a GitHub.com con tu nueva cuenta. 
